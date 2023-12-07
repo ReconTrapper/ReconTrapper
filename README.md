@@ -7,19 +7,11 @@ The-Hunting-Grounds-Recipe
 "The-Hunting-Grounds-Recipe" is a puzzle designed to guide users in setting up a virtual environment for bug bounty practice. This puzzle encourages users to actively seek and build the required environment. The detailed instructions for the puzzle can be found here.
 
 Puzzle Instructions
-Getting Started: Clone this repository to your local machine.
+Getting Started: https://github.com/your-username/TBBP-Trapper.git
 
-bash
-Copy code
-git clone https://github.com/your-username/TBBP-Trapper.git
-Navigate to Puzzle Directory: Enter the puzzle directory.
+Solve the Puzzle: Engage with the Recipy to find the answers and gain insights into bug bounty methodologies and the environment they are built in.
 
-bash
-Copy code
-cd TBBP-Trapper/The-Hunting-Grounds-Recipe
-Build the Environment: Follow the provided instructions here to set up the required virtual environment for bug bounty practice.
-
-Solve the Puzzle: Engage with the puzzle to find the answers and gain insights into bug bounty methodologies.
+Build the Environment: Follow the provided instructions in the recipe to set up the required virtual environment for bug bounty practice.
 
 Important Note
 To receive the full answer or for any assistance, reach out to me personally via my GitHub account ReconTrapper. This precautionary measure is in place to ensure responsible and ethical use of the information provided.
@@ -32,7 +24,7 @@ For inquiries and assistance, contact me on GitHub: ReconTrapper.
 
 Happy bug hunting!
 
-This version includes a link to the detailed instructions for the puzzle. Adjust the text and links as needed for your specific project.
+This version includes a link to the detailed instructions for the puzzle. 
 - 📫 How to reach me ... telmore4611@gmail.com
 
 <!---
