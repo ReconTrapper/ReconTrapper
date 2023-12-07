@@ -18,13 +18,11 @@ Welcome to **TBBP*, Trapper the Bug Bounty Pirate's repository! This GitHub acco
 Navigate to Puzzle Directory: Enter find puzzle directory.
 
 
-Solve the Puzzle: Engage with the recipe to find the answers and gain insights into bug bounty methodologies and the environment they are built in.
-
 Important Note
 To receive the full answer or for any assistance, reach out to me personally via my GitHub account ReconTrapper. This precautionary measure is in place to ensure responsible and ethical use of the information provided.
 
 Puzzle Outcome
-By completing the puzzle, you will have a fully functional copy of Kali Linux 64-bit running as a service in VMware with BiglyBT installed on your host computer.
+By completing the puzzle, you will have a fully functional virtual envirment installed on your host computer ready to start scripting in any language with the help of Chat Gpt.
 
 Contact
 For inquiries and assistance, contact me on GitHub: ReconTrapper.
