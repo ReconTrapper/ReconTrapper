@@ -14,16 +14,9 @@ Welcome to **TBBP Trapper**, the Bug Bounty Pirate's repository! This GitHub acc
 
 ## Puzzle Instructions
 
-1. **Getting Started:** Clone this repository to your local machine.
+1. **Getting Started: click the link to view the recipie 
+Navigate to Puzzle Directory: Enter find puzzle directory.
 
-   ```bash
-   git clone https://github.com/ReconTrapper/TBBP-Trapper.git
-Navigate to Puzzle Directory: Enter the puzzle directory.
-
-bash
-Copy code
-cd TBBP-Trapper/The-Hunting-Grounds-Recipe
-Build the Environment: Follow the provided instructions in the recipe to set up the required virtual environment for bug bounty practice.
 
 Solve the Puzzle: Engage with the recipe to find the answers and gain insights into bug bounty methodologies and the environment they are built in.
 
@@ -31,7 +24,7 @@ Important Note
 To receive the full answer or for any assistance, reach out to me personally via my GitHub account ReconTrapper. This precautionary measure is in place to ensure responsible and ethical use of the information provided.
 
 Puzzle Outcome
-By completing the puzzle, you will have a fully functional copy of Kali Linux 64-bit running as a service in VMware with BiglyBT installed.
+By completing the puzzle, you will have a fully functional copy of Kali Linux 64-bit running as a service in VMware with BiglyBT installed on your host computer.
 
 Contact
 For inquiries and assistance, contact me on GitHub: ReconTrapper.
