@@ -1,5 +1,6 @@
-markdown
-Copy code
+
+
+
 # Trapper TBBP - The Bug Bounty Pirate
 
 ## Introduction
@@ -25,4 +26,4 @@ Puzzle Outcome
 By completing the puzzle, you will have a fully functional virtual envirment installed on your host computer ready to start scripting in any language with the help of Chat Gpt.
 
 Contact
-For inquiries and assistance, : ReconTrapper.
+For inquiries and assistance, :Trapper.TBBP.gmail.com.
