@@ -1,6 +1,6 @@
 markdown
 Copy code
-# TBBP Trapper - The Bug Bounty Pirate
+# Trapper TBBP - The Bug Bounty Pirate
 
 ## Introduction
 
