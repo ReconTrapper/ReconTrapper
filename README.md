@@ -16,7 +16,8 @@ Welcome to **TBBP*, Trapper the Bug Bounty Pirate's repository! This GitHub acco
 ## Puzzle Instructions
 
 1. **Getting Started: click the link to view the recipie 
-Navigate to Puzzle Directory: Enter find puzzle directory.
+    Find your first bug and compleate the porject
+2. Enter The Hunting-Grounds with your shopping list of 4 needed items to start bug hunting.
 
 
 Important Note
